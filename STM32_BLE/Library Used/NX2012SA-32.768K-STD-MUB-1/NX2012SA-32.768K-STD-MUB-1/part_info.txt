@@ -1,0 +1,9 @@
+Manufacturer=NDK
+PartNumber=NX2012SA-32.768K-STD-MUB-1
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2019-08-24 22:42:43
+Downloaded=2024-01-24 12:02:00
+3D=Y
