@@ -1,0 +1,47 @@
+### Footprint positions - created on Sun Feb 18 19:12:32 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                     PosX       PosY       Rot  Side
+C1        33n                   C_0402_1005Metric                        29.9120    15.7468  180.0000  top
+C2        10u                   C_0402_1005Metric                        32.0150     6.8568    0.0000  top
+C3        10n                   C_0402_1005Metric                        31.9440     7.9998    0.0000  top
+C4        10n                   C_0402_1005Metric                        35.2180    13.8418   90.0000  top
+C5        10n                   C_0402_1005Metric                        32.7770    16.8898    0.0000  top
+C6        1u                    C_0603_1608Metric                         9.8180    11.6828  -90.0000  top
+C7        1u                    C_0603_1608Metric                        15.6600    11.6828  -90.0000  top
+C8        22pf                  C_0402_1005Metric                        38.5200     6.0948  -90.0000  top
+C9        2.2nF                 C_0402_1005Metric                        42.2030     9.1428  -90.0000  top
+C10       22pf                  C_0402_1005Metric                        34.8370     3.0468    0.0000  top
+C11       4.7pF                 C_0402_1005Metric                        43.4730     9.1428  -90.0000  top
+C12       1.5pF                 C_0402_1005Metric                        45.1520    12.0638  180.0000  top
+C13       1pF                   C_0402_1005Metric                        47.0290    12.3178   90.0000  top
+C14       1u                    C_0402_1005Metric                        23.1530    17.5248    0.0000  top
+C15       100n                  C_0402_1005Metric                        23.1530    16.2548    0.0000  top
+C16       100n                  C_0402_1005Metric                        18.6090     8.5078  180.0000  top
+C17       100n                  C_0402_1005Metric                        20.3590    17.0168  180.0000  top
+C18       100n                  C_0402_1005Metric                        28.2330     3.3008  -90.0000  top
+D1        LED                   LED_0603_1608Metric                      17.1840    16.3818    0.0000  top
+D2        LED                   LED_0603_1608Metric                      17.1840    18.0328    0.0000  top
+F1        100mA                 Fuse_1206_3216Metric                      6.4408    16.5088    0.0000  top
+FB1       100Mhz                L_0805_2012Metric                        10.6533    16.2548    0.0000  top
+FID1      Fiducial              Fiducial_0.5mm_Mask1mm                   45.0908     0.8877    0.0000  top
+FID2      Fiducial              Fiducial_0.5mm_Mask1mm                   45.3408    20.3877    0.0000  top
+FID3      Fiducial              Fiducial_0.5mm_Mask1mm                    6.0908    20.3877    0.0000  top
+J1        USB_B_Micro           USB_Micro-B_Wuerth_629105150521           2.0055    10.6668  -90.0000  top
+J2        Conn_Coaxial          SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount    50.5120     9.7778   90.0000  top
+J3        Conn_ARM_JTAG_SWD_10  PinHeader_2x05_P1.27mm_Vertical          20.9940     2.7928   90.0000  top
+L1        8.2nH                 L_0402_1005Metric                        41.3140    11.5558  -90.0000  top
+L2        2.7nH                 L_0402_1005Metric                        42.9650    10.7938    0.0000  top
+L3        3.9nH                 L_0402_1005Metric                        42.9650    12.0638    0.0000  top
+R1        22k                   R_0402_1005Metric                        34.8390    15.7468    0.0000  top
+R2        1M                    R_0402_1005Metric                        35.5990     8.5078    0.0000  top
+R3        10K                   R_0402_1005Metric                        24.6770    14.4788   90.0000  top
+R4        2k2                   R_0402_1005Metric                        14.5170    16.3818  180.0000  top
+R5        2k2                   R_0402_1005Metric                        14.5190    17.7788  180.0000  top
+U1        NRF24L01              QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm      32.0430    12.1908    0.0000  top
+U2        XC6206PxxxMR          SOT-23                                   12.7390    11.6828  180.0000  top
+U3        USBLC6-2P6            SOT-666                                   7.1510    10.7938  180.0000  top
+U4        STM32L432KBUx         QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm    20.8670    12.3178  -90.0000  top
+Y1        Crystal_GND24         Crystal_SMD_3225-4Pin_3.2x2.5mm          35.7260     5.5868  180.0000  top
+## End

@@ -1,0 +1,12 @@
+### Footprint positions - created on Sun Feb 18 15:22:14 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                             PosX       PosY       Rot  Side
+C1        4.7uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                      15.7103    10.7780   90.0000  top
+C2        10uF                  C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                      32.9692    10.8835   90.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal     7.0235    12.3821  -90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal    40.4368     7.8740   90.0000  top
+L1        10uH                  VLCF4024T-100MR90-2                                              28.5119    10.7797  180.0000  top
+U1        LM3670MF              TSOT-23-5                                                        21.5606    10.7913    0.0000  top
+## End
