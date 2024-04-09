@@ -1,0 +1,52 @@
+### Footprint positions - created on Mon Apr  8 22:44:06 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                                     PosX       PosY       Rot  Side
+C1        0.1uF                 C_0805_2012Metric                                                        97.6270    35.6882   90.0000  top
+C2        22uF_10V              C_0805_2012Metric                                                        73.0250    63.0682   90.0000  top
+C3        10nF_10V              C_0805_2012Metric                                                        62.8650    47.0662  -90.0000  top
+C4        100nF_10V             C_0805_2012Metric                                                        75.8190    63.0682   90.0000  top
+C5        10nF_10V              C_0805_2012Metric                                                        72.0090    52.1462  -90.0000  top
+D1        LED                   LED_1206_3216Metric                                                      15.6210    37.2272  -90.0000  top
+D2        LED                   LED_1206_3216Metric                                                      32.4612    37.3380  -90.0000  top
+D3        LED                   LED_1206_3216Metric                                                      50.6568    37.4480  -90.0000  top
+D4        LED                   LED_1206_3216Metric                                                      69.2150    37.2622  -90.0000  top
+D5        D                     D_0805_2012Metric                                                        15.1130    33.4172    0.0000  top
+D6        D                     D_0805_2012Metric                                                        32.1310    33.7820    0.0000  top
+D7        D                     D_0805_2012Metric                                                        50.4536    33.6380    0.0000  top
+D8        D                     D_0805_2012Metric                                                        68.7070    33.7062    0.0000  top
+IC1       ESP32-WROOM-32E-N8    ESP32WROOM32EN8                                                          88.4050    58.7502    0.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal     6.2230    53.7902   90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal    20.4576     6.3368  180.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal    38.4718     6.4236  180.0000  top
+J4        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal    56.9320     6.3968  180.0000  top
+J5        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal    75.4288     6.4744  180.0000  top
+J6        Conn_01x03_Pin        PinHeader_1x03_P2.54mm_Vertical                                         101.3206    67.9958   90.0000  top
+J7        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal   110.4138    39.4208  -90.0000  top
+J8        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal    96.2660     6.9342  180.0000  top
+J9        Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal   110.3630    19.4818  -90.0000  top
+J10       Screw_Terminal_01x02  TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal   110.5662    58.8426  -90.0000  top
+K1        SRD-05VDC-SL-C        RELAY_SRD-05VDC-SL-C                                                     16.7076    22.3428   90.0000  top
+K2        SRD-05VDC-SL-C        RELAY_SRD-05VDC-SL-C                                                     34.7218    22.4256   90.0000  top
+K3        SRD-05VDC-SL-C        RELAY_SRD-05VDC-SL-C                                                     53.1820    22.3988   90.0000  top
+K4        SRD-05VDC-SL-C        RELAY_SRD-05VDC-SL-C                                                     71.6788    22.4764   90.0000  top
+PS1       HLK-10M05             Converter_ACDC_HiLink_HLK-10Mxx                                          15.5905    61.6342    0.0000  top
+Q1        PNP_Transistor        SOT-23                                                                   18.6646    34.3939   90.0000  top
+Q2        PNP_Transistor        SOT-23                                                                   35.6870    34.6456   90.0000  top
+Q3        PNP_Transistor        SOT-23                                                                   54.3560    34.5186   90.0000  top
+Q4        PNP_Transistor        SOT-23                                                                   72.2122    34.6710   90.0000  top
+R1        R                     R_0805_2012Metric                                                        13.0810    37.8857   90.0000  top
+R2        R                     R_0805_2012Metric                                                        29.8196    37.7952   90.0000  top
+R3        R                     R_0805_2012Metric                                                        48.3708    38.0800   90.0000  top
+R4        R                     R_0805_2012Metric                                                        66.6750    37.8942   90.0000  top
+R5        1k                    R_0805_2012Metric                                                        19.9390    38.3937   90.0000  top
+R6        1k                    R_0805_2012Metric                                                        37.6174    38.1254  180.0000  top
+R7        1k                    R_0805_2012Metric                                                        56.4988    37.9560  180.0000  top
+R8        1k                    R_0805_2012Metric                                                        73.2536    38.5807  -90.0000  top
+R9        10K                   R_0805_2012Metric                                                        95.8980    41.5884  180.0000  top
+R10       10K                   R_0805_2012Metric                                                        80.5185    41.2824    0.0000  top
+S1        FSM4JH                FSM4JH                                                                   92.8370    35.1282  -90.0000  top
+S2        FSM4JH                FSM4JH                                                                   83.6062    35.3302  -90.0000  top
+U1        AMS1117-3.3           SOT-223-3_TabPin2                                                        66.1670    52.9082    0.0000  top
+## End
